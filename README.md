@@ -1,0 +1,2 @@
+# learnSQL
+Notes on SQL
